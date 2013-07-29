@@ -1,4 +1,4 @@
 ownCloud-pwmanager
 ==================
 
-An ownCloud app for password management. 
+An ownCloud app for password management!
