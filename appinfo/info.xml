@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <id>pwmanager</id>
+    <name>Password Manager</name>
+    <description>Self-hosted password management alternative.</description>
+    <version>0.1</version>
+    <licence>AGPL</licence>
+    <author>Daniel Imhoff, Stephen Corcoran</author>
+    <require>5</require>
+</info>
